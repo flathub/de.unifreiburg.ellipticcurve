@@ -18,9 +18,9 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.com/kebekus/ellipticcurveplotter.git",
-                    "tag": "1.1.4.1",
-                    "commit": "3ecdb8de4b6c877a9630ccfd2a39fc441c3cfd7e"
+                    "url": "https://gitlab.com/kebekus/ellipticcurve.git",
+                    "tag": "${PROJECT_VERSION}",
+                    "commit": "${TAG_COMMIT}"
                 }
             ]
         }
