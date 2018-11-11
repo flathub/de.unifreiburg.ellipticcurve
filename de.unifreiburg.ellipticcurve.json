@@ -19,8 +19,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/kebekus/ellipticcurve.git",
-                    "tag": "${PROJECT_VERSION}",
-                    "commit": "${TAG_COMMIT}"
+                    "tag": "1.1.5",
+                    "commit": "53a5a73e682173e423990bf9e3f4cb38afed815c"
                 }
             ]
         }
