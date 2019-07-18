@@ -1,7 +1,7 @@
 {
     "app-id": "de.unifreiburg.ellipticcurve",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "ellipticcurve",
     "finish-args": [
@@ -19,8 +19,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/kebekus/ellipticcurve.git",
-                    "tag": "1.1.5",
-                    "commit": "53a5a73e682173e423990bf9e3f4cb38afed815c"
+                    "tag": "1.1.6",
+                    "commit": "b50ce6c6a7f568a6475ded415e095896e4621b1b"
                 }
             ]
         }
