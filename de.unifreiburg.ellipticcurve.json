@@ -17,10 +17,8 @@
             "config-opts": ["-DCMAKE_BUILD_TYPE=RelWithDebInfo"],
             "sources": [
                 {
-                    "type": "git",
-                    "url": "https://gitlab.com/kebekus/ellipticcurve.git",
-                    "tag": "1.1.6",
-                    "commit": "9827498ec3c11d9e89bec921a7512752014fc541"
+		    "type": "archive",
+                    "path": "ellipticCurvePlotter-1.1.6.tar.gz"
                 }
             ]
         }
