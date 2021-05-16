@@ -19,7 +19,7 @@
                 {
 		    "type": "git",
                     "url": "https://gitlab.com/kebekus/ellipticcurve.git",
-		    "commit": "9ad103908dbbad063fb27edd6ca9d516bc8c206e"
+		    "commit": "848d184b117a6238210be94c665411c3fe0f2e69"
                 }
             ]
         }
